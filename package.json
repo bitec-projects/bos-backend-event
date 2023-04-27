@@ -1,0 +1,11 @@
+{
+  "name": "bos-backend-event",
+  "version": "0.0.1",
+  "description": "Bos Backend Event Module - Módulo de Recursos de Eventos Customizados para Framework BOS (BierOnStack)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardo-bier-bos/bos-backend-event"
+  },
+  "author": "Carlos Eduardo Bier"
+}
